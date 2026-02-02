@@ -67,6 +67,9 @@ If it works always — now we talk.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HanshalBobate?theme=dark&font=Source%20Code%20Pro)
 
+## 🍛 CodeChef
+
+![CodeChef Stats](https://codechef-readme-stats.vercel.app/api?username=bouquet_grape)
 
 ---
 ## 📬 Reach Me
