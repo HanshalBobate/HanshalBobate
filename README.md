@@ -72,9 +72,8 @@ If it works always — now we talk.
 ---
 ## 📬 Reach Me
 
+- Email: hanshalbobate2006@gmail.com
 - GitHub: you're already stalking me 😄  
-
-(LinkedIn / X later — jab duniya ready hogi)
 
 ---
 
