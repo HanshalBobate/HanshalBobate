@@ -57,7 +57,15 @@ If it works twice, it’s suspicious.
 If it works always — now we talk.
 
 ---
+## 💻 COMPETITIVE CODING STATS
 
+## 🟦 Codeforces
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Hanshal)
+
+
+
+---
 ## 📬 Reach Me
 
 - GitHub: you're already stalking me 😄  
