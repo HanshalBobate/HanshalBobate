@@ -59,22 +59,14 @@ If it works always — now we talk.
 ---
 ## 💻 COMPETITIVE CODING STATS
 
-<table>
-  <tr>
-    <td align="center">
-      <b>🟦 Codeforces</b><br>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Hanshal" />
-    </td>
-    <td align="center">
-      <b>🟨 LeetCode</b><br>
-      <img src="https://leetcard.jacoblin.cool/HanshalBobate?theme=dark&font=Source%20Code%20Pro" />
-    </td>
-    <td align="center">
-      <b>🍛 CodeChef</b><br>
-      <img src="assets/codechef.png" />
-    </td>
-  </tr>
-</table>
+## 💻 COMPETITIVE CODING STATS
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Hanshal" width="320" />
+  <img src="https://leetcard.jacoblin.cool/HanshalBobate?theme=dark&font=Source%20Code%20Pro" width="320" />
+  <img src="assets/codechef.png" width="320" />
+</p>
+
 
 
 ---
