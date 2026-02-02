@@ -63,6 +63,9 @@ If it works always — now we talk.
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Hanshal)
 
+## 🟨 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/HanshalBobate?theme=dark&font=Source%20Code%20Pro)
 
 
 ---
