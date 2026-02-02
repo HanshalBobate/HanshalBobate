@@ -69,7 +69,9 @@ If it works always — now we talk.
 
 ## 🍛 CodeChef
 
-![CodeChef Stats](https://codechef-readme-stats.vercel.app/api?username=bouquet_grape)
+<p align="center">
+  <img src="assets/codechef.png" alt="CodeChef Stats" />
+</p>
 
 ---
 ## 📬 Reach Me
