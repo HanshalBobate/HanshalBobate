@@ -57,16 +57,16 @@ If it works twice, it’s suspicious.
 If it works always — now we talk.
 
 ---
-## 💻 COMPETITIVE CODING STATS
+## 💻 Competitive Coding Stats
 
-## 💻 COMPETITIVE CODING STATS
+### 🟦 Codeforces
+![CF](https://codeforces-readme-stats.vercel.app/api/card?username=Hanshal)
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Hanshal" width="320" />
-  <img src="https://leetcard.jacoblin.cool/HanshalBobate?theme=dark&font=Source%20Code%20Pro" width="320" />
-  <img src="assets/codechef.png" width="320" />
-</p>
+### 🟨 LeetCode
+![LC](https://leetcard.jacoblin.cool/HanshalBobate?theme=dark&font=Source%20Code%20Pro)
 
+### 🍛 CodeChef
+<img src="assets/codechef.png" width="500" />
 
 
 ---
