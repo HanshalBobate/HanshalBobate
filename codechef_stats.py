@@ -46,16 +46,21 @@ TEXT_SECONDARY = "#666666"  # Gray text
 img = Image.new("RGB", (WIDTH, HEIGHT), color=BG_COLOR)
 draw = ImageDraw.Draw(img)
 draw.rectangle([(0, 0), (WIDTH-1, HEIGHT-1)], outline=BORDER_COLOR, width=1)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 try:
-    font_title = ImageFont.truetype("DejaVuSans-Bold.ttf", 18)
-    font_label = ImageFont.truetype("DejaVuSans.ttf", 12)
-    font_value = ImageFont.truetype("DejaVuSans-Bold.ttf", 14)
-except:
+    font_title = ImageFont.truetype(
+        os.path.join(BASE_DIR, "DejaVuSans-Bold.ttf"), 18
+    )
+    font_label = ImageFont.truetype(
+        os.path.join(BASE_DIR, "DejaVuSans.ttf"), 12
+    )
+    font_value = ImageFont.truetype(
+        os.path.join(BASE_DIR, "DejaVuSans-Bold.ttf"), 14
+    )
+except Exception as e:
     font_title = font_label = font_value = ImageFont.load_default()
-try:
-    font_title = ImageFont.truetype("DejaVuSans-Bold.ttf", 18)
-    font_label = ImageFont.truetype("DejaVuSans.ttf", 12)
-    font_value = ImageFont.truetype("DejaVuSans-Bold.ttf", 14)
+
 except Exception as e:
     font_title = font_label = font_value = ImageFont.load_default()
 draw.text((20, 20), "CodeChef Stats", fill=HEADER_COLOR, font=font_title)
