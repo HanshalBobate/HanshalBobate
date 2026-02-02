@@ -69,7 +69,7 @@ If it works always — now we talk.
 
 ## 🍛 CodeChef
 
-<p align="center">
+<p align="left">
   <img src="assets/codechef.png" alt="CodeChef Stats" />
 </p>
 
