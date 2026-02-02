@@ -1,5 +1,5 @@
 
-## 🎮 GitHub Activity (but make it fun)
+## 🎮 GitHub Activity
 
 <p align="center">
   <img src="assets/space-shooter.gif" />
