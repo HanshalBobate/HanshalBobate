@@ -57,6 +57,57 @@ If it works twice, it’s suspicious.
 If it works always — now we talk.
 
 ---
+# 🧠 AI-DETOX Challenge
+
+> “If I always use the mold, I never become the sculptor.”
+
+A personal challenge to build **50 projects from scratch** with minimal or zero AI assistance.
+
+Not because AI is bad.  
+But because I want to strengthen the one thing AI cannot replace:
+
+**my ability to think through problems.**
+
+This challenge focuses on:
+- Problem solving
+- Systems thinking
+- Debugging
+- Building from first principles
+- Learning through discomfort
+
+Everything is built publicly, including failures, confusion, broken logic, and the occasional 3 a.m. existential crisis.
+
+---
+
+### Progress Tracker
+
+| Project | Title | Status |
+|---|---|---|
+| 1/50 | BFS Rubik’s Cube Solver | ✅ Completed |
+
+---
+
+### Current Philosophy
+
+- AI for assistance, not dependence  
+- Understanding > Copying  
+- Build first, optimize later  
+- Small projects still matter  
+- Comfort is the enemy of growth
+
+---
+
+###  Goal
+
+By the end of this challenge, I don't just want a portfolio.
+
+I want:
+- sharper engineering instincts
+- stronger debugging skills
+- better systems thinking
+- confidence without AI crutches
+
+---
 ## 💻 Competitive Coding Stats
 
 ### 🟦 Codeforces
