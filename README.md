@@ -84,6 +84,7 @@ Everything is built publicly, including failures, confusion, broken logic, and t
 | Project | Title | Status |
 |---|---|---|
 | 1/50 | BFS Rubik’s Cube Solver | ✅ Completed |
+| 2/50 | Tetris - But CLI | ✅ Completed |
 
 ---
 
